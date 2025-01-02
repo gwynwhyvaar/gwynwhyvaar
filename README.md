@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on making games using Unity, Godot and Monogame.
-- 🌱 I’m currently learning Game Design (Unity 3d, Godot, and Monogame)
+- 🔭 I’m currently working on making games with Unity, Godot and Monogame and C#. I also have an SDP /Messaging system (using C#, .NET8, Microsoft Orleans and Mongo DB) in the works which would be opensource.
+- 🌱 I’m currently learning Game Design with Speciality in Level Design (Unity 3d, Godot, and Monogame) and some Rust.
 - 📫 How to reach me: aayoko@outlook.com
 <!--
 **gwynwhyvaar/gwynwhyvaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
